@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# Daniel Noyes, , ECE565F2015 HW#2
+# Daniel Noyes, ECE565F2015 HW#2
 #
 # HW#2 Simulate content switching conducted by OS Process Manager.
 #Context switching saves the state of the currently running process 
